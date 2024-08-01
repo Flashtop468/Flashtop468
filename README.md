@@ -1,4 +1,5 @@
-## Hi there 👋
+## ola meu nome é flashtop
+estou estudando no Alura
 
 <!--
 **Flashtop468/Flashtop468** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
